@@ -1,4 +1,4 @@
-# inter-ex
+# Internship Exercise
 ## Process
 
 I will walk you through what I did and some insights I had.
